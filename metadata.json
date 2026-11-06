@@ -1,0 +1,6 @@
+{
+  "name": "Ioncler Gestão de Aluguéis",
+  "description": "Sistema de controle e gestão de aluguéis e comissões para corretor de imóveis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
